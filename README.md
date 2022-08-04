@@ -46,16 +46,3 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.linkedin.com/in/nehaal-pandey-849961226/" target="_blank"> <img height="28" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/iamnehaalpandey" target="_blank"><img height="28" src = "https://img.shields.io/badge/-Instagram-e95950?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 </p>
-   
----
-<!---
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codesbynehaal&show_icons=true&locale=en&layout=compact" alt="codesbynehaal" /></p>
---->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codesbynehaal&show_icons=true&locale=en" alt="codesbynehaal" /></p>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codesbynehaal&" alt="codesbynehaal" /></p>
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/codesbynehaal/count.svg" />
-</p>
