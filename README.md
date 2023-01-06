@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&width=1000&size=35&color=1F51FF&lines=HELLO,+GOOD+TO+SEE+YOU+BACK!!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&width=1000&size=35&color=1F51FF&lines=Finallyyy,+You+Are+Back!!)](https://git.io/typing-svg)
 
 
 <div align="center">
